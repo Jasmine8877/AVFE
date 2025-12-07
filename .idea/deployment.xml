@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="sweet@d7edddf67d8d.ofalias.net:33034" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="honey@219.216.69.128:2222">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/honey/baby/local" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="moon@219.216.65.220:18023 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/moon/gzz/local" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@219.216.64.87:32773 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/gzz/local" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sweet@d7edddf67d8d.ofalias.net:33034">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/sweet/baby/local" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
