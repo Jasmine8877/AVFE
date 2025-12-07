@@ -1,5 +1,5 @@
 # Attention Enhanced Knowledge Graph Embeddings with Variable Receptive Fields for Link Prediction
-<a href=''><img src='https://img.shields.io/badge/-Preprint to Information Processing and Management-purple'></a> 
+<a href=''><img src='https://img.shields.io/badge/-Preprint submitted to Information Processing and Management-purple'></a> 
  
 
 The implementation of our work "Attention Enhanced Knowledge Graph Embeddings with Variable Receptive Fields for Link Prediction".
